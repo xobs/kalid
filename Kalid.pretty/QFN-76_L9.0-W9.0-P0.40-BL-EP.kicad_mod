@@ -3285,7 +3285,7 @@
 		(uuid "0a26164c-21e1-4464-bc90-46db1b089b20")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/QFN-76_L9.0-W9.0-H0.9-P0.40-BL-EP.step"
+	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-76-1EP_9x9mm_P0.4mm_EP5.81x6.31mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

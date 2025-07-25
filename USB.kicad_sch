@@ -5855,22 +5855,10 @@
 		(uuid "044479f3-a050-4298-93f0-19ecd635e99d")
 	)
 	(junction
-		(at 260.35 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "06b965d7-daf6-42cd-a5a4-65ef9349cfb3")
-	)
-	(junction
 		(at 53.34 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "08c8fdaa-bc1f-4759-a65d-6a5fdaeb4e67")
-	)
-	(junction
-		(at 260.35 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08e3b783-bc72-4178-af31-7b1bcd60291d")
 	)
 	(junction
 		(at 81.28 180.34)
@@ -5975,6 +5963,12 @@
 		(uuid "329d036b-f74a-4384-bdb7-1bc3ff64ed64")
 	)
 	(junction
+		(at 262.89 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36da8740-029f-40c0-8b4b-df9f04a74bad")
+	)
+	(junction
 		(at 224.79 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6035,16 +6029,16 @@
 		(uuid "4487ee19-1d20-4f1d-8ad3-3035849f1a48")
 	)
 	(junction
+		(at 106.68 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49b21955-5b7e-4cf7-b923-b6b05fd674ad")
+	)
+	(junction
 		(at 71.12 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b6891b1-f6ae-4f1b-81ec-1a805de913fb")
-	)
-	(junction
-		(at 260.35 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4cf6584b-b8b1-4d03-ad17-c633adfd93f2")
 	)
 	(junction
 		(at 45.72 129.54)
@@ -6059,10 +6053,22 @@
 		(uuid "4fcde0fb-9411-4a3a-bd56-55d0a6ecb638")
 	)
 	(junction
+		(at 106.68 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5350313b-7db8-4d15-b168-5ca2c14e7dc4")
+	)
+	(junction
 		(at 62.23 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53f9e9be-d0ec-43a2-b01d-dac481e71650")
+	)
+	(junction
+		(at 86.36 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55366f2d-e506-4bd3-a69f-d4601bf16a46")
 	)
 	(junction
 		(at 85.09 120.65)
@@ -6083,10 +6089,10 @@
 		(uuid "631c126a-b26d-47ed-b1b3-ae67445eaa54")
 	)
 	(junction
-		(at 260.35 83.82)
+		(at 85.09 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "64cf43b6-b196-4b69-b1fa-84c6c2fda763")
+		(uuid "669e2015-e3d7-44db-86ac-d3c1927bf9ce")
 	)
 	(junction
 		(at 66.04 134.62)
@@ -6101,22 +6107,28 @@
 		(uuid "6784aa4e-d562-479b-9c4a-c6b5b1bdefc1")
 	)
 	(junction
+		(at 116.84 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b70eb5e-b19e-40e0-92ba-626901f797eb")
+	)
+	(junction
 		(at 116.84 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f8d6954-37ff-47a7-ba3b-a367a422e3b7")
 	)
 	(junction
-		(at 262.89 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6fdf4768-28b5-4aaf-aa83-3f116d307994")
-	)
-	(junction
 		(at 251.46 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7242bd3b-4e5c-4901-95b2-d3b8432cd921")
+	)
+	(junction
+		(at 262.89 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72977a3d-80d8-4d83-9979-3d1d5517a83e")
 	)
 	(junction
 		(at 195.58 95.25)
@@ -6185,6 +6197,12 @@
 		(uuid "88e0dbcd-6b98-4f51-ac76-abd454d747a7")
 	)
 	(junction
+		(at 116.84 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9131a7f9-515d-41a7-a8af-5d24aca11f8f")
+	)
+	(junction
 		(at 53.34 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6203,22 +6221,10 @@
 		(uuid "99be7379-2843-4e6c-b731-c7a48a31ce83")
 	)
 	(junction
-		(at 262.89 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9ccd7587-ccc3-4514-a1ff-207424ac458b")
-	)
-	(junction
 		(at 224.79 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a176273f-ee82-498f-8998-2fc41327a559")
-	)
-	(junction
-		(at 262.89 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a25e86e1-c2ae-41ff-a2bb-85b6a3d23458")
 	)
 	(junction
 		(at 33.02 118.11)
@@ -6359,6 +6365,12 @@
 		(uuid "ea676024-20b1-42e9-919e-5526d0f8aa1e")
 	)
 	(junction
+		(at 262.89 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eede3bb1-ecea-4574-9c76-de4bf1dc39f2")
+	)
+	(junction
 		(at 53.34 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6387,6 +6399,10 @@
 		(uuid "07e1a2e1-b6be-4a6a-8e09-f85c854c6371")
 	)
 	(no_connect
+		(at 73.66 58.42)
+		(uuid "11e291ec-39d4-46b8-a6e6-813224e96ade")
+	)
+	(no_connect
 		(at 194.31 115.57)
 		(uuid "1202351b-e98a-44ad-b79a-4417d0d6bc01")
 	)
@@ -6397,10 +6413,6 @@
 	(no_connect
 		(at 173.99 21.59)
 		(uuid "1933b86d-93f4-4b03-878c-79c8123a2229")
-	)
-	(no_connect
-		(at 78.74 60.96)
-		(uuid "20e50146-34e0-41bd-90c7-6c32b4dbb118")
 	)
 	(no_connect
 		(at 194.31 140.97)
@@ -6463,16 +6475,16 @@
 		(uuid "9a590c6a-e7e6-4eed-bc9f-886dc94c1531")
 	)
 	(no_connect
+		(at 73.66 60.96)
+		(uuid "a56e0467-450b-4182-ac31-80cd6d1b317b")
+	)
+	(no_connect
 		(at 194.31 82.55)
 		(uuid "b0df325a-fb5c-4b8e-ba73-1abb7ccf4bfe")
 	)
 	(no_connect
 		(at 194.31 80.01)
 		(uuid "d8e67fbc-06c4-4220-ac93-ed2153b3d53e")
-	)
-	(no_connect
-		(at 78.74 58.42)
-		(uuid "e83a6691-17fd-40fe-9a2e-8f6fb72d082c")
 	)
 	(no_connect
 		(at 173.99 24.13)
@@ -6525,16 +6537,6 @@
 			(type default)
 		)
 		(uuid "03d1cf23-8f4e-463c-9a56-227aab22412b")
-	)
-	(wire
-		(pts
-			(xy 256.54 83.82) (xy 256.54 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "045c4db6-7bdc-4374-86df-bdee69502da0")
 	)
 	(wire
 		(pts
@@ -6608,6 +6610,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 129.54) (xy 127 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bc856ab-9c0d-426e-b9a0-219e53fbef9f")
+	)
+	(wire
+		(pts
 			(xy 220.98 92.71) (xy 224.79 92.71)
 		)
 		(stroke
@@ -6655,16 +6667,6 @@
 			(type default)
 		)
 		(uuid "0edbd83c-dab5-4340-bb27-7cdd910d71af")
-	)
-	(wire
-		(pts
-			(xy 260.35 116.84) (xy 256.54 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ef7fe0a-0e12-494c-adea-aa16c6d2483b")
 	)
 	(wire
 		(pts
@@ -6718,6 +6720,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 134.62) (xy 116.84 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12399edb-57fe-4133-9c03-33adc83a4892")
+	)
+	(wire
+		(pts
 			(xy 194.31 95.25) (xy 195.58 95.25)
 		)
 		(stroke
@@ -6735,6 +6747,16 @@
 			(type default)
 		)
 		(uuid "13f51783-6b8a-49e6-b707-7f7e05d5a648")
+	)
+	(wire
+		(pts
+			(xy 86.36 45.72) (xy 87.63 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14aa8e88-fbe1-4f95-9ac6-e8a4c1ffc757")
 	)
 	(wire
 		(pts
@@ -6828,16 +6850,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 81.28) (xy 260.35 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b41019d-1e1f-41e2-95d2-91967ff8b60e")
-	)
-	(wire
-		(pts
 			(xy 237.49 35.56) (xy 252.73 35.56)
 		)
 		(stroke
@@ -6898,16 +6910,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 48.26) (xy 260.35 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fa01c27-0c1a-4371-a664-1d68e15bf070")
-	)
-	(wire
-		(pts
 			(xy 52.07 148.59) (xy 62.23 148.59)
 		)
 		(stroke
@@ -6948,16 +6950,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 50.8) (xy 264.16 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "288f73aa-808c-431b-bd0f-55a5c63eb9ae")
-	)
-	(wire
-		(pts
 			(xy 231.14 104.14) (xy 213.36 104.14)
 		)
 		(stroke
@@ -6968,13 +6960,23 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 83.82) (xy 262.89 83.82)
+			(xy 85.09 58.42) (xy 85.09 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2b352e02-432a-41c9-bed9-bb4a8f779258")
+		(uuid "2ab498c5-6f7d-4a05-b26f-fbc161dcdf3b")
+	)
+	(wire
+		(pts
+			(xy 86.36 60.96) (xy 86.36 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b93b4a0-70f9-4cdd-85fb-9a13c022d3ef")
 	)
 	(wire
 		(pts
@@ -7188,16 +7190,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 58.42) (xy 73.66 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c2f4e79-17b1-4fb8-9f77-bcd7d4815845")
-	)
-	(wire
-		(pts
 			(xy 260.35 87.63) (xy 264.16 87.63)
 		)
 		(stroke
@@ -7265,6 +7257,16 @@
 			(type default)
 		)
 		(uuid "446affc7-4392-44fb-8dd7-b7322a229dd1")
+	)
+	(wire
+		(pts
+			(xy 262.89 50.8) (xy 264.16 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "455ff497-60c3-4899-aebd-2c362ce01e48")
 	)
 	(wire
 		(pts
@@ -7348,16 +7350,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 116.84) (xy 262.89 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d48f1c5-1723-4254-82ea-bfd1bb40efc6")
-	)
-	(wire
-		(pts
 			(xy 53.34 167.64) (xy 55.88 167.64)
 		)
 		(stroke
@@ -7438,7 +7430,17 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 48.26) (xy 87.63 48.26)
+			(xy 262.89 83.82) (xy 264.16 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532af8e8-5026-4dc3-bf2d-3128ff445774")
+	)
+	(wire
+		(pts
+			(xy 80.01 48.26) (xy 85.09 48.26)
 		)
 		(stroke
 			(width 0)
@@ -7758,6 +7760,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 58.42) (xy 85.09 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f4f221-f695-4b84-82ad-29bd27359c9c")
+	)
+	(wire
+		(pts
 			(xy 231.14 125.73) (xy 234.95 125.73)
 		)
 		(stroke
@@ -7818,6 +7830,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 48.26) (xy 87.63 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7527c996-24eb-46ea-b825-4d54802e6b06")
+	)
+	(wire
+		(pts
 			(xy 49.53 40.64) (xy 87.63 40.64)
 		)
 		(stroke
@@ -7855,16 +7877,6 @@
 			(type default)
 		)
 		(uuid "7c17adfa-b2bf-435a-a8d8-9f4f050a2cfe")
-	)
-	(wire
-		(pts
-			(xy 260.35 149.86) (xy 256.54 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ca49462-b251-4928-becb-1047811b5286")
 	)
 	(wire
 		(pts
@@ -7908,6 +7920,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 129.54) (xy 116.84 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "815ce1fc-ebb7-4c3c-abee-251e458f6673")
+	)
+	(wire
+		(pts
 			(xy 224.79 87.63) (xy 231.14 87.63)
 		)
 		(stroke
@@ -7915,6 +7937,16 @@
 			(type default)
 		)
 		(uuid "8160a24d-b54d-41f4-9fdc-1617df0f4fda")
+	)
+	(wire
+		(pts
+			(xy 260.35 83.82) (xy 262.89 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8367a356-1faf-4e3c-9acd-5b94352b0685")
 	)
 	(wire
 		(pts
@@ -7988,26 +8020,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 83.82) (xy 260.35 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87a9dbe6-3ae8-487b-b931-ca71180a49da")
-	)
-	(wire
-		(pts
-			(xy 260.35 50.8) (xy 262.89 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8925446e-5733-412e-a89c-fb6d8a32d6fc")
-	)
-	(wire
-		(pts
 			(xy 55.88 129.54) (xy 66.04 129.54)
 		)
 		(stroke
@@ -8018,7 +8030,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 50.8) (xy 256.54 50.8)
+			(xy 260.35 50.8) (xy 262.89 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8108,16 +8120,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 116.84) (xy 264.16 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "945f9849-54fa-485a-b792-b11b4bbe94ee")
-	)
-	(wire
-		(pts
 			(xy 35.56 129.54) (xy 45.72 129.54)
 		)
 		(stroke
@@ -8128,16 +8130,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 147.32) (xy 260.35 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94c4827e-1b20-419f-afdb-3a4c442d26a9")
-	)
-	(wire
-		(pts
 			(xy 41.91 143.51) (xy 52.07 143.51)
 		)
 		(stroke
@@ -8145,16 +8137,6 @@
 			(type default)
 		)
 		(uuid "94ecd584-6fb8-4486-b8c7-6e9ce2377f45")
-	)
-	(wire
-		(pts
-			(xy 260.35 83.82) (xy 256.54 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97453b12-c119-4fd8-aece-c0b2a923244d")
 	)
 	(wire
 		(pts
@@ -8348,16 +8330,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 116.84) (xy 256.54 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4268108-4b41-4f63-951b-57993ec7e67b")
-	)
-	(wire
-		(pts
 			(xy 224.79 153.67) (xy 231.14 153.67)
 		)
 		(stroke
@@ -8375,16 +8347,6 @@
 			(type default)
 		)
 		(uuid "a4c8eb9b-7fd9-452d-9845-2aeb46af38eb")
-	)
-	(wire
-		(pts
-			(xy 260.35 50.8) (xy 260.35 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5d41849-6c5f-405e-bf77-2e40a94a51da")
 	)
 	(wire
 		(pts
@@ -8455,16 +8417,6 @@
 			(type default)
 		)
 		(uuid "b08557b0-b9ac-4d4a-9f9a-7eddea32d32f")
-	)
-	(wire
-		(pts
-			(xy 256.54 114.3) (xy 260.35 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1500ca7-1164-4347-96ac-ed1f3cde5870")
 	)
 	(wire
 		(pts
@@ -8605,6 +8557,16 @@
 			(type default)
 		)
 		(uuid "b77dcb83-a8da-48c7-8c49-f9f5ed1dd554")
+	)
+	(wire
+		(pts
+			(xy 260.35 116.84) (xy 262.89 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b7e4ac-94fc-46c8-b77a-a178100f143c")
 	)
 	(wire
 		(pts
@@ -8818,16 +8780,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 149.86) (xy 260.35 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c913aea9-9f67-460b-bcec-afbf9500122e")
-	)
-	(wire
-		(pts
 			(xy 213.36 59.69) (xy 215.9 59.69)
 		)
 		(stroke
@@ -8968,16 +8920,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 60.96) (xy 73.66 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d43a7780-411b-480c-a36e-057248219da5")
-	)
-	(wire
-		(pts
 			(xy 213.36 92.71) (xy 213.36 95.25)
 		)
 		(stroke
@@ -9025,6 +8967,16 @@
 			(type default)
 		)
 		(uuid "da4a2f6f-dced-4192-82a8-cc1ea4b53fe4")
+	)
+	(wire
+		(pts
+			(xy 78.74 60.96) (xy 86.36 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da54afc5-c5a3-4d94-89b9-3af788f97af3")
 	)
 	(wire
 		(pts
@@ -9118,6 +9070,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 134.62) (xy 127 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4a003b1-abcb-4330-b656-3e1c69a10a07")
+	)
+	(wire
+		(pts
 			(xy 96.52 134.62) (xy 106.68 134.62)
 		)
 		(stroke
@@ -9208,13 +9170,23 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 45.72) (xy 87.63 45.72)
+			(xy 80.01 45.72) (xy 86.36 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eb3f197b-d227-4b21-9808-2bf23cb03608")
+	)
+	(wire
+		(pts
+			(xy 262.89 116.84) (xy 264.16 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb613fcd-72c8-4109-8213-1045aad04ce0")
 	)
 	(wire
 		(pts
@@ -9308,16 +9280,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 83.82) (xy 264.16 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f11afc99-ddf9-4ef3-8e21-972b81453a8a")
-	)
-	(wire
-		(pts
 			(xy 251.46 46.99) (xy 237.49 46.99)
 		)
 		(stroke
@@ -9358,16 +9320,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 149.86) (xy 256.54 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f33cb61f-1664-41c5-b232-575fa8f66640")
-	)
-	(wire
-		(pts
 			(xy 200.66 43.18) (xy 200.66 39.37)
 		)
 		(stroke
@@ -9385,16 +9337,6 @@
 			(type default)
 		)
 		(uuid "f3beb17d-d737-4a1a-a73c-9dc4ac1ab84f")
-	)
-	(wire
-		(pts
-			(xy 256.54 50.8) (xy 256.54 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3d3ff79-da74-4eeb-a5e7-3dcd6186ab8b")
 	)
 	(wire
 		(pts
@@ -9445,16 +9387,6 @@
 			(type default)
 		)
 		(uuid "f8f06a18-e6fe-4eaf-ab08-bd08cf66b8f4")
-	)
-	(wire
-		(pts
-			(xy 260.35 116.84) (xy 260.35 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa3c5411-c432-48dc-b04e-9010bac8606f")
 	)
 	(wire
 		(pts
@@ -9516,16 +9448,6 @@
 		)
 		(uuid "231df505-4060-4dfa-8573-b61ea70c39f8")
 	)
-	(label "USB_UFP_D+"
-		(at 58.42 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2409649a-3402-46c9-8ef2-9c730f61662c")
-	)
 	(label "CC1"
 		(at 69.85 40.64 0)
 		(effects
@@ -9535,6 +9457,16 @@
 			(justify left bottom)
 		)
 		(uuid "30bb0a20-1d00-4ace-ba5e-81bf02e88f3d")
+	)
+	(label "P2_D+"
+		(at 207.01 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34dcee6e-da48-4d17-b0b9-b49990f74b79")
 	)
 	(label "USB_UFP_D+"
 		(at 156.21 16.51 0)
@@ -9566,6 +9498,26 @@
 		)
 		(uuid "4cc604af-4fa8-4d2b-b330-96ac7293f715")
 	)
+	(label "P3_D-"
+		(at 209.55 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fc9db64-2bea-41db-9db5-024b54d4d618")
+	)
+	(label "P3_D+"
+		(at 209.55 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5d989183-8aed-44cd-b60b-75cf99ef0c59")
+	)
 	(label "CC1"
 		(at 81.28 22.86 270)
 		(effects
@@ -9586,6 +9538,16 @@
 		)
 		(uuid "65befe62-b19a-4be0-95a7-3efb2dfb32f5")
 	)
+	(label "P4_D-"
+		(at 212.09 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "677b8ecd-2fda-4b8a-8588-fc84e3124191")
+	)
 	(label "USB_UFP_D-"
 		(at 156.21 19.05 0)
 		(effects
@@ -9595,6 +9557,16 @@
 			(justify left bottom)
 		)
 		(uuid "79eafa95-e2a2-4988-90d3-f60d685ee594")
+	)
+	(label "P1_D-"
+		(at 208.28 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "82a44e91-c217-4d0a-82b2-ebab83b6133a")
 	)
 	(label "CC2"
 		(at 69.85 43.18 0)
@@ -9616,15 +9588,35 @@
 		)
 		(uuid "af3c50e3-0c43-479f-b208-0b5e4f08f1a5")
 	)
-	(label "USB_UFP_D-"
-		(at 58.42 60.96 0)
+	(label "P1_D+"
+		(at 208.28 40.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f61a08d2-3d25-4ca5-8cf9-b65147439159")
+		(uuid "eed2a509-e54b-4421-8d1f-c0583f00832b")
+	)
+	(label "P4_D+"
+		(at 212.09 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "efd80b62-bb5c-455d-b2cb-6312f6b8f179")
+	)
+	(label "P2_D-"
+		(at 207.01 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fddce2fe-6667-4921-b59b-781ed4e1eca0")
 	)
 	(symbol
 		(lib_id "Kalid:R 10k 0402")
@@ -10246,86 +10238,6 @@
 			(project ""
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_A")
-		(at 260.35 106.68 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08c0bdf4-8910-4e19-99fd-01a1bf1922ff")
-		(property "Reference" "J4"
-			(at 266.7 105.4099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "USB_A"
-			(at 266.7 107.9499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_USB:USB_A_Connfly_DS1095"
-			(at 256.54 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588896898288144384"
-			(at 256.54 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB Type A connector"
-			(at 260.35 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "8ba3d6f6-2ad9-4972-a5e3-c3f02a5d8489")
-		)
-		(pin "2"
-			(uuid "0aa03466-3ca5-49c9-86c6-72336ce463dc")
-		)
-		(pin "1"
-			(uuid "41540931-f5fc-4626-a1e8-fc04e243bede")
-		)
-		(pin "3"
-			(uuid "bdc75c8f-668a-4f6a-a033-efd91331be37")
-		)
-		(pin "4"
-			(uuid "bb93118b-474a-4413-9e81-1b6fd547e12e")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -16260,86 +16172,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_A")
-		(at 260.35 40.64 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "70739d4c-8daa-4249-be40-36e3b23f51a5")
-		(property "Reference" "J1"
-			(at 266.7 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "USB_A"
-			(at 266.7 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_USB:USB_A_Connfly_DS1095"
-			(at 256.54 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588896898288144384"
-			(at 256.54 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB Type A connector"
-			(at 260.35 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "86f94ece-2fd4-47b5-a489-d0efcc614036")
-		)
-		(pin "2"
-			(uuid "f6f16bbb-a8f6-40a1-9014-da538bdab06b")
-		)
-		(pin "1"
-			(uuid "a74f8863-e3e4-4364-b75c-a0014e1c8a6c")
-		)
-		(pin "3"
-			(uuid "a6f25129-514d-42bd-ba49-f11e7c578b19")
-		)
-		(pin "4"
-			(uuid "09c09e87-886c-4a11-b366-a4fac5a52efe")
-		)
-		(instances
-			(project ""
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Kalid:GL3523-OTY30 4-port USB-3.0 SS hub")
 		(at 184.15 149.86 0)
 		(mirror y)
@@ -20010,6 +19842,113 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_A")
+		(at 260.35 40.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5df1c5c-ee9f-44ea-9a53-3c12ed037f53")
+		(property "Reference" "J1"
+			(at 266.7 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "USB_A"
+			(at 266.7 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Kalid:USB_A_Connfly_DS1095"
+			(at 256.54 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588896898288144384"
+			(at 256.54 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB Type A connector"
+			(at 260.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 260.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AF 90° WJDG"
+			(at 260.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C456018"
+			(at 260.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "cd32d889-45a7-4dc9-affb-0c7538576590")
+		)
+		(pin "2"
+			(uuid "f2afc156-519a-4f29-828f-4403dad21fb2")
+		)
+		(pin "1"
+			(uuid "467c59c6-255b-418e-a583-586637ca4362")
+		)
+		(pin "3"
+			(uuid "9cb4ac96-b286-4504-98b0-3ea76046d3b4")
+		)
+		(pin "4"
+			(uuid "21598343-05bf-4925-81c8-5185801c1843")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 251.46 123.19 270)
 		(unit 1)
@@ -20762,6 +20701,113 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_A")
+		(at 260.35 73.66 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b07f9e74-70c8-4d04-a0dd-073a74ea9761")
+		(property "Reference" "J3"
+			(at 266.7 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "USB_A"
+			(at 266.7 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Kalid:USB_A_Connfly_DS1095"
+			(at 256.54 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588896898288144384"
+			(at 256.54 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB Type A connector"
+			(at 260.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 260.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AF 90° WJDG"
+			(at 260.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C456018"
+			(at 260.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "d6fcd663-ef80-4eba-a509-0c0f1b52e7d9")
+		)
+		(pin "2"
+			(uuid "57407e0c-9025-4d86-8f1d-773117c33a63")
+		)
+		(pin "1"
+			(uuid "33b46ee3-856e-44c8-abb4-8af3f7ad05f1")
+		)
+		(pin "3"
+			(uuid "9b2f79f8-1c7f-4e16-86df-7efed9ffc6fd")
+		)
+		(pin "4"
+			(uuid "525404b1-5778-4af3-ab22-5571eb98a052")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 106.68 48.26 0)
 		(unit 1)
@@ -21036,6 +21082,113 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_A")
+		(at 260.35 106.68 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba1b54f3-e3bf-4db9-9c4d-d420fc9f5b87")
+		(property "Reference" "J4"
+			(at 266.7 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "USB_A"
+			(at 266.7 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Kalid:USB_A_Connfly_DS1095"
+			(at 256.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588896898288144384"
+			(at 256.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB Type A connector"
+			(at 260.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 260.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AF 90° WJDG"
+			(at 260.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C456018"
+			(at 260.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "a72d30f7-cdd9-4281-a131-bc2fccbc3d28")
+		)
+		(pin "2"
+			(uuid "e28598b2-87aa-429c-920f-19352cb12bf0")
+		)
+		(pin "1"
+			(uuid "141fd1ab-aed0-4078-be27-3325c0ea3ad4")
+		)
+		(pin "3"
+			(uuid "7949d408-2afb-4760-91a1-5904c9c9a5d2")
+		)
+		(pin "4"
+			(uuid "bcac9c45-9b62-4068-87fd-58e88588aaf5")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
 		(at 34.29 50.8 0)
 		(unit 1)
@@ -21061,7 +21214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+		(property "Footprint" "Kalid:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 38.1 50.8 0)
 			(effects
 				(font
@@ -21820,7 +21973,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Connfly_DS1095"
+		(property "Footprint" "Kalid:USB_A_Connfly_DS1095"
 			(at 256.54 140.97 0)
 			(effects
 				(font
@@ -21839,6 +21992,33 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 260.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 260.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AF 90° WJDG"
+			(at 260.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C456018"
 			(at 260.35 139.7 0)
 			(effects
 				(font
@@ -23164,112 +23344,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Kalid:Cap 4.7uF 0402")
-		(at 113.03 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dd4b45d4-e713-4a51-9786-247930344bd2")
-		(property "Reference" "C21"
-			(at 115.57 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Cap 4.7uF 0402"
-			(at 113.03 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 113.03 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Capacitor, 4.7uF, 50V, X7R, 0402"
-			(at 113.03 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
-			(at 113.03 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402B472K500NT"
-			(at 113.03 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "4.7uF"
-			(at 115.57 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "LCSC" "C1538"
-			(at 113.03 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ee5de279-2aac-4071-80a0-434b7213d33d")
-		)
-		(pin "1"
-			(uuid "9e5790b8-7381-476e-bab3-e7c630ffbeee")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 194.31 57.15 270)
 		(unit 1)
@@ -23337,36 +23411,26 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_A")
-		(at 260.35 73.66 0)
-		(mirror y)
+		(lib_id "Kalid:Cap 4.7uF 0402")
+		(at 127 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e317fec4-a748-4ba5-96fd-de46cef023d6")
-		(property "Reference" "J3"
-			(at 266.7 72.3899 0)
+		(uuid "e0f90ff4-112c-4c06-8a43-dd6c79875e3c")
+		(property "Reference" "C21"
+			(at 129.54 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "USB_A"
-			(at 266.7 74.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_USB:USB_A_Connfly_DS1095"
-			(at 256.54 74.93 0)
+		(property "Value" "Cap 4.7uF 0402"
+			(at 127 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23374,8 +23438,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588896898288144384"
-			(at 256.54 74.93 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 127 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23383,8 +23447,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Type A connector"
-			(at 260.35 73.66 0)
+		(property "Datasheet" "~"
+			(at 127 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23392,25 +23456,61 @@
 				(hide yes)
 			)
 		)
-		(pin "5"
-			(uuid "5e6bb887-e93f-4652-8da5-44e1fe9ae384")
+		(property "Description" "Capacitor, 4.7uF, 50V, X7R, 0402"
+			(at 127 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402B472K500NT"
+			(at 127 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "4.7uF"
+			(at 129.54 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "LCSC" "C1538"
+			(at 127 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "65e1c71f-87ca-48b3-a209-60af0de900a3")
+			(uuid "23d278e4-9c4b-4525-9318-11366f71c8e7")
 		)
 		(pin "1"
-			(uuid "bd18c89f-597d-41aa-8ee3-bb79d69f9e2b")
-		)
-		(pin "3"
-			(uuid "cde78e92-b0e0-4278-8ff0-987a218ec41d")
-		)
-		(pin "4"
-			(uuid "5d298f97-4115-4ed5-ac61-541e1a45ed91")
+			(uuid "663303bc-57f2-4b71-96e4-9ec1f77e7ea4")
 		)
 		(instances
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "J3")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -23617,6 +23717,112 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "R43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kalid:Cap 4.7uF 0402")
+		(at 116.84 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7496198-eb3f-4d89-b1cd-6f7d1e6bc0df")
+		(property "Reference" "C43"
+			(at 119.38 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Cap 4.7uF 0402"
+			(at 116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 116.84 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitor, 4.7uF, 50V, X7R, 0402"
+			(at 116.84 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 116.84 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402B472K500NT"
+			(at 116.84 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "4.7uF"
+			(at 119.38 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "LCSC" "C1538"
+			(at 116.84 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dd7d51f8-103f-49f9-aaa5-0572f57df034")
+		)
+		(pin "1"
+			(uuid "c3508d86-6bf4-452d-972e-18b31cb1d82c")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "C43")
 					(unit 1)
 				)
 			)
