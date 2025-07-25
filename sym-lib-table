@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Kalid")(type "KiCad")(uri "${KIPRJMOD}/Kalid.kicad_sym")(options "")(descr "Kalid project-specific symbols"))
+)
