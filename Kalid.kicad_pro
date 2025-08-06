@@ -59,8 +59,13 @@
         },
         {
           "gap": 0.2032,
-          "via_gap": 0.0,
-          "width": 0.2205
+          "via_gap": 0.2032,
+          "width": 0.2037
+        },
+        {
+          "gap": 0.2032,
+          "via_gap": 0.2032,
+          "width": 0.2672
         }
       ],
       "drc_exclusions": [
@@ -625,12 +630,12 @@
       },
       {
         "diff_pair_gap": 0.2032,
-        "diff_pair_width": 0.2205,
+        "diff_pair_width": 0.2672,
         "name": "USB",
         "pcb_color": "rgb(193, 187, 45)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2205
+        "track_width": 0.2672
       }
     ],
     "meta": {
