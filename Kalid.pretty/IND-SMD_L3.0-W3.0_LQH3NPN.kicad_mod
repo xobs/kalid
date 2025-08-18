@@ -1,0 +1,130 @@
+(footprint "IND-SMD_L3.0-W3.0_LQH3NPN"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "f0b2b59e-c985-4e23-b64e-cbb9c53cfc1a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L3.0-W3.0_LQH3NPN"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "6a800519-f02e-4cf1-a56a-82b3d2a7140a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bfddfd4-f221-4042-98d9-8b367d3ee885")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1f5906c-9d5c-436b-bb6e-7d4b75a6d73d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.58 -1.8)
+		(end 1.58 -1.8)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c13bc3df-792e-48ed-8704-e25ba31c9ebf")
+	)
+	(fp_line
+		(start -1.58 1.8)
+		(end 1.58 1.8)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "347e5287-e2eb-4919-ad51-9e7afb4d6388")
+	)
+	(fp_rect
+		(start -2.5 -2)
+		(end 2.5 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "89427e5b-2c97-4ec0-a365-d4b5985a2be5")
+	)
+	(fp_circle
+		(center 1.5 -1.5)
+		(end 1.53 -1.5)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "bdbf7bfb-70cf-4e55-bfc5-e396fc9ec7d5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "cf518b5f-1ad6-497d-84e7-34b2bf909ed7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.43 0)
+		(size 1.82 3.22)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3cb83323-07b9-4cc0-946a-e533ae523bf0")
+	)
+	(pad "2" smd rect
+		(at -1.43 0)
+		(size 1.82 3.22)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c046f0ad-c499-4025-9449-d9de0e1a7ccf")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Kalid.pretty/IND-SMD_L3.0-W3.0_LQH3NPN.step"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

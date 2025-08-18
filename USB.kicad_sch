@@ -1138,168 +1138,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:L"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "L"
-				(at -1.27 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "L"
-				(at 1.905 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "inductor choke coil reactor magnetic"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "L_0_1"
-				(arc
-					(start 0 2.54)
-					(mid 0.6323 1.905)
-					(end 0 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 1.27)
-					(mid 0.6323 0.635)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.6323 -0.635)
-					(end 0 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.27)
-					(mid 0.6323 -1.905)
-					(end 0 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "L_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:LED"
 			(pin_numbers
 				(hide yes)
@@ -4078,6 +3916,204 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Kalid:L 2.2uH 2A"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L?"
+				(at -1.016 0.254 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "L 2.2uH 2A"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Kalid:IND-SMD_L3.0-W3.0_LQH3NPN"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C285842.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "2.05A 15uH Magnetic Shielded Inductor ±20% 2.2A SMD,5x5mm Power Inductors ROHS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Chilisin"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "LVS303010-2R2M-N"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C285842"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Val" "2.2uH 2A"
+				(at 1.524 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "inductor choke coil reactor magnetic"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "L 2.2uH 2A_0_1"
+				(arc
+					(start 0 2.54)
+					(mid 0.6323 1.905)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "L 2.2uH 2A_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Kalid:LPW5209AB5F"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5894,20 +5930,6 @@
 		)
 		(uuid 8f35fe03-c8df-44d3-8347-24a3fc8306ea)
 	)
-	(rectangle
-		(start 26.416 182.626)
-		(end 59.436 185.166)
-		(stroke
-			(width 0.254)
-			(type default)
-			(color 5 5 5 1)
-		)
-		(fill
-			(type color)
-			(color 170 244 255 1)
-		)
-		(uuid d14bc821-d90a-41c5-972e-5e8c182c7067)
-	)
 	(text "VSET:\n0Ω    | 5V\n75kΩ  | 9V\nopen  | 12V\n4.7nF | 15V\n20nF  | 20V"
 		(exclude_from_sim no)
 		(at 91.44 58.42 0)
@@ -5943,17 +5965,6 @@
 		)
 		(uuid "964096d0-088b-4325-b639-a155daf4c123")
 	)
-	(text "10k on top, 50k on the bottom"
-		(exclude_from_sim no)
-		(at 43.18 184.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "b8a326a6-0027-478c-b17a-06dcd3ab9e17")
-	)
 	(junction
 		(at 204.47 99.06)
 		(diameter 0)
@@ -5965,12 +5976,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "044479f3-a050-4298-93f0-19ecd635e99d")
-	)
-	(junction
-		(at 53.34 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08c8fdaa-bc1f-4759-a65d-6a5fdaeb4e67")
 	)
 	(junction
 		(at 81.28 180.34)
@@ -6069,12 +6074,6 @@
 		(uuid "316f89a3-af37-4949-9fa2-844ccdbd4b2e")
 	)
 	(junction
-		(at 102.87 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "329d036b-f74a-4384-bdb7-1bc3ff64ed64")
-	)
-	(junction
 		(at 262.89 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6159,12 +6158,6 @@
 		(uuid "4d944ddf-d4f7-46f3-b29a-af5c2ab066d4")
 	)
 	(junction
-		(at 102.87 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4fcde0fb-9411-4a3a-bd56-55d0a6ecb638")
-	)
-	(junction
 		(at 106.68 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6175,6 +6168,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53f9e9be-d0ec-43a2-b01d-dac481e71650")
+	)
+	(junction
+		(at 78.74 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54c14ded-5221-48fc-adad-d63c2d06f7f4")
 	)
 	(junction
 		(at 86.36 45.72)
@@ -6193,6 +6192,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5777f136-9934-4691-a128-d07a57ce7607")
+	)
+	(junction
+		(at 62.23 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5778e29f-5b82-4e53-829e-ecaef4ba68d2")
 	)
 	(junction
 		(at 55.88 134.62)
@@ -6351,16 +6356,16 @@
 		(uuid "b6d379ad-147b-4343-9f63-94206df33e31")
 	)
 	(junction
+		(at 34.29 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b88fa6cf-26e4-4dda-9355-5a10a33aa830")
+	)
+	(junction
 		(at 262.89 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be94c1e4-91c8-444f-b5dc-c7b2c34dcbc5")
-	)
-	(junction
-		(at 78.74 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c36acbbd-162f-4442-8bbd-6c1bbbe7ea75")
 	)
 	(junction
 		(at 264.16 153.67)
@@ -6634,16 +6639,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 179.07) (xy 38.1 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02a547af-5b6b-41b3-bf8b-28cfcf4d9714")
-	)
-	(wire
-		(pts
 			(xy 200.66 138.43) (xy 194.31 138.43)
 		)
 		(stroke
@@ -6684,16 +6679,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 168.91) (xy 130.81 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0982270c-0d57-477a-94ed-3c7155dddebf")
-	)
-	(wire
-		(pts
 			(xy 104.14 48.26) (xy 106.68 48.26)
 		)
 		(stroke
@@ -6711,26 +6696,6 @@
 			(type default)
 		)
 		(uuid "0a48d001-cd0c-4e07-8852-55f231822193")
-	)
-	(wire
-		(pts
-			(xy 46.99 181.61) (xy 53.34 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a6bdcff-9b13-4f0e-9626-658f387017db")
-	)
-	(wire
-		(pts
-			(xy 102.87 148.59) (xy 113.03 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0add9bba-460d-470e-bb9b-dfdfc04d6d72")
 	)
 	(wire
 		(pts
@@ -6764,6 +6729,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 171.45) (xy 130.81 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e204287-a915-46c2-a651-0ab9376cd319")
+	)
+	(wire
+		(pts
 			(xy 262.89 149.86) (xy 264.16 149.86)
 		)
 		(stroke
@@ -6794,16 +6769,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 175.26) (xy 62.23 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f0b9732-1489-4a02-9a93-30e2dfb2905f")
-	)
-	(wire
-		(pts
 			(xy 224.79 54.61) (xy 231.14 54.61)
 		)
 		(stroke
@@ -6831,16 +6796,6 @@
 			(type default)
 		)
 		(uuid "11001798-a885-4f69-94b6-bb64afc3c6e5")
-	)
-	(wire
-		(pts
-			(xy 62.23 175.26) (xy 68.58 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11006226-45e4-4043-ba48-12ac3abfd50d")
 	)
 	(wire
 		(pts
@@ -6964,7 +6919,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 167.64) (xy 118.11 168.91)
+			(xy 119.38 167.64) (xy 119.38 172.72)
 		)
 		(stroke
 			(width 0)
@@ -7001,16 +6956,6 @@
 			(type default)
 		)
 		(uuid "1d00292e-82d8-4074-a359-585daf3dd68b")
-	)
-	(wire
-		(pts
-			(xy 106.68 172.72) (xy 130.81 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d71a838-3066-42f4-97ce-dc65504ab685")
 	)
 	(wire
 		(pts
@@ -7084,6 +7029,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 177.8) (xy 62.23 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a679748-c54f-4b09-ba6b-ed7120d4336c")
+	)
+	(wire
+		(pts
 			(xy 85.09 58.42) (xy 85.09 48.26)
 		)
 		(stroke
@@ -7131,16 +7086,6 @@
 			(type default)
 		)
 		(uuid "2e968648-109b-4384-ae1e-2330d284725c")
-	)
-	(wire
-		(pts
-			(xy 46.99 179.07) (xy 53.34 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ef90632-ae04-4a99-92d6-83464aef5a67")
 	)
 	(wire
 		(pts
@@ -7224,6 +7169,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 172.72) (xy 116.84 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3793a7bb-fcc3-40f4-801d-1544371f7cd3")
+	)
+	(wire
+		(pts
 			(xy 85.09 102.87) (xy 81.28 102.87)
 		)
 		(stroke
@@ -7264,16 +7219,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 179.07) (xy 58.42 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a53cd29-5a4c-4956-a8b4-a12289409678")
-	)
-	(wire
-		(pts
 			(xy 200.66 76.2) (xy 200.66 72.39)
 		)
 		(stroke
@@ -7281,16 +7226,6 @@
 			(type default)
 		)
 		(uuid "3a5e35f0-7726-4590-9cfd-5b06974459c8")
-	)
-	(wire
-		(pts
-			(xy 73.66 175.26) (xy 78.74 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a869a61-c7f1-4f8e-b718-9898dd0e1c5d")
 	)
 	(wire
 		(pts
@@ -7344,6 +7279,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 172.72) (xy 116.84 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43526cba-3071-4885-8962-1d3d47574a31")
+	)
+	(wire
+		(pts
 			(xy 233.68 90.17) (xy 234.95 90.17)
 		)
 		(stroke
@@ -7391,16 +7336,6 @@
 			(type default)
 		)
 		(uuid "455ff497-60c3-4899-aebd-2c362ce01e48")
-	)
-	(wire
-		(pts
-			(xy 92.71 148.59) (xy 102.87 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "463fb4ed-9962-4dc8-a408-f64108ac9f37")
 	)
 	(wire
 		(pts
@@ -7634,6 +7569,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 180.34) (xy 71.12 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dedef6c-6393-439f-9087-fb80ac89956b")
+	)
+	(wire
+		(pts
 			(xy 49.53 53.34) (xy 49.53 55.88)
 		)
 		(stroke
@@ -7714,6 +7659,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 172.72) (xy 119.38 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67861688-6d44-400a-b343-7287b4856c47")
+	)
+	(wire
+		(pts
 			(xy 203.2 106.68) (xy 203.2 102.87)
 		)
 		(stroke
@@ -7774,16 +7729,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 92.71) (xy 53.34 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a3331cb-6747-4d65-b461-46723de5f541")
-	)
-	(wire
-		(pts
 			(xy 115.57 40.64) (xy 115.57 41.91)
 		)
 		(stroke
@@ -7824,7 +7769,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 172.72) (xy 78.74 172.72)
+			(xy 73.66 175.26) (xy 78.74 175.26)
 		)
 		(stroke
 			(width 0)
@@ -7861,26 +7806,6 @@
 			(type default)
 		)
 		(uuid "717eafe2-7379-4d3e-a70c-fde46012931f")
-	)
-	(wire
-		(pts
-			(xy 58.42 181.61) (xy 62.23 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "718c8baa-53e1-4c98-9898-c1c905cffaf1")
-	)
-	(wire
-		(pts
-			(xy 78.74 175.26) (xy 82.55 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71e7182e-8f58-49c4-bf66-918cbb4dd124")
 	)
 	(wire
 		(pts
@@ -7941,6 +7866,16 @@
 			(type default)
 		)
 		(uuid "73ed9da1-4d61-41c3-936d-3d8b1ef7e6ab")
+	)
+	(wire
+		(pts
+			(xy 34.29 95.25) (xy 53.34 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "748204df-7128-43ee-bd5b-d89489d2d389")
 	)
 	(wire
 		(pts
@@ -8174,6 +8109,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 177.8) (xy 62.23 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f88decf-794c-4d83-ab41-96ce9bb5c4f7")
+	)
+	(wire
+		(pts
 			(xy 106.68 40.64) (xy 104.14 40.64)
 		)
 		(stroke
@@ -8184,33 +8129,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 143.51) (xy 102.87 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "905f08c9-e62d-49ba-b6cf-cf5ebf157ed6")
-	)
-	(wire
-		(pts
-			(xy 62.23 181.61) (xy 62.23 184.15)
+			(xy 34.29 100.33) (xy 34.29 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "90ecc2fa-7421-464d-ae38-5e4e0f2c82f2")
-	)
-	(wire
-		(pts
-			(xy 66.04 182.88) (xy 71.12 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92267fa7-a31a-4d87-bf8e-7f1a96b75f6d")
 	)
 	(wire
 		(pts
@@ -8224,6 +8149,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 177.8) (xy 78.74 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92ea2e0f-51dc-4085-84e4-f3d86e7f650f")
+	)
+	(wire
+		(pts
 			(xy 127 134.62) (xy 137.16 134.62)
 		)
 		(stroke
@@ -8231,6 +8166,16 @@
 			(type default)
 		)
 		(uuid "93244f68-982b-496d-b32e-e793f36a5610")
+	)
+	(wire
+		(pts
+			(xy 52.07 182.88) (xy 71.12 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9350bde4-f474-410f-85e6-6981f9f30ddd")
 	)
 	(wire
 		(pts
@@ -8324,16 +8269,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 168.91) (xy 130.81 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aabe35e-da91-4943-8439-cf9c393a0b7e")
-	)
-	(wire
-		(pts
 			(xy 204.47 104.14) (xy 204.47 101.6)
 		)
 		(stroke
@@ -8341,6 +8276,16 @@
 			(type default)
 		)
 		(uuid "9bf56fce-5325-4b69-9147-23dd8ac69485")
+	)
+	(wire
+		(pts
+			(xy 34.29 170.18) (xy 38.1 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c5b52da-de72-4661-a255-99c29755b411")
 	)
 	(wire
 		(pts
@@ -8684,6 +8629,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 177.8) (xy 78.74 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b739ce7e-0962-4aa6-8d28-53781bd6ff19")
+	)
+	(wire
+		(pts
 			(xy 85.09 118.11) (xy 85.09 120.65)
 		)
 		(stroke
@@ -8701,16 +8656,6 @@
 			(type default)
 		)
 		(uuid "b8b7e4ac-94fc-46c8-b77a-a178100f143c")
-	)
-	(wire
-		(pts
-			(xy 44.45 85.09) (xy 53.34 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b947ae09-60f1-4498-a05d-56f3e890651b")
 	)
 	(wire
 		(pts
@@ -8771,6 +8716,16 @@
 			(type default)
 		)
 		(uuid "bcb3257f-f9d4-4811-8e84-22f154eaf4c8")
+	)
+	(wire
+		(pts
+			(xy 130.81 171.45) (xy 130.81 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdef27ac-a102-4a0d-864b-6a12f85cb7dc")
 	)
 	(wire
 		(pts
@@ -9054,6 +9009,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 182.88) (xy 52.07 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d27b81ff-649d-4b1b-a576-f64657a3cbe1")
+	)
+	(wire
+		(pts
 			(xy 213.36 92.71) (xy 213.36 95.25)
 		)
 		(stroke
@@ -9094,7 +9059,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 172.72) (xy 68.58 172.72)
+			(xy 62.23 175.26) (xy 68.58 175.26)
 		)
 		(stroke
 			(width 0)
@@ -9234,26 +9199,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 181.61) (xy 41.91 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6209443-1ddb-4229-b114-09bcba32d7d4")
-	)
-	(wire
-		(pts
-			(xy 78.74 172.72) (xy 78.74 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e651189d-3d37-47ae-98fa-ef476f047a6a")
-	)
-	(wire
-		(pts
 			(xy 233.68 156.21) (xy 234.95 156.21)
 		)
 		(stroke
@@ -9284,23 +9229,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 167.64) (xy 118.11 167.64)
+			(xy 106.68 167.64) (xy 119.38 167.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ea6d0d3d-021a-4bec-89e3-e48da94cb930")
-	)
-	(wire
-		(pts
-			(xy 102.87 143.51) (xy 113.03 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ead6a00e-75cf-4221-b219-8d0fb3f1adcc")
 	)
 	(wire
 		(pts
@@ -9374,6 +9309,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 175.26) (xy 82.55 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed1628ce-084e-4b57-8e09-934fc9468615")
+	)
+	(wire
+		(pts
 			(xy 106.68 165.1) (xy 130.81 165.1)
 		)
 		(stroke
@@ -9391,16 +9336,6 @@
 			(type default)
 		)
 		(uuid "eea0a9ac-f456-44f5-a9f5-26f9f6118c49")
-	)
-	(wire
-		(pts
-			(xy 38.1 179.07) (xy 38.1 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eeab8a1d-a21d-4a35-a661-557bbe6fb9d1")
 	)
 	(wire
 		(pts
@@ -9444,7 +9379,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 180.34) (xy 71.12 180.34)
+			(xy 58.42 177.8) (xy 62.23 177.8)
 		)
 		(stroke
 			(width 0)
@@ -9582,6 +9517,16 @@
 		)
 		(uuid "ff6a8c7a-eb89-4767-aabb-0ba2f9de6af7")
 	)
+	(label "SPI_CLK"
+		(at 107.95 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "15bd5880-3fbf-4768-81be-98b51a28fda2")
+	)
 	(label "USB_UFP_D-"
 		(at 58.42 48.26 0)
 		(effects
@@ -9621,6 +9566,16 @@
 			(justify left bottom)
 		)
 		(uuid "466cd6ec-72f7-4c29-a340-5b1ca43c4519")
+	)
+	(label "SPI_COPI"
+		(at 107.95 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "486b2e05-6345-4e33-b5ad-55e9f1f423fd")
 	)
 	(label "USB_UFP_D-"
 		(at 66.04 50.8 180)
@@ -9692,6 +9647,16 @@
 		)
 		(uuid "677b8ecd-2fda-4b8a-8588-fc84e3124191")
 	)
+	(label "SPI_CS"
+		(at 107.95 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74bb5850-65c4-4538-b43c-353b58d75222")
+	)
 	(label "USB_UFP_D-"
 		(at 156.21 19.05 0)
 		(effects
@@ -9711,6 +9676,16 @@
 			(justify left bottom)
 		)
 		(uuid "82a44e91-c217-4d0a-82b2-ebab83b6133a")
+	)
+	(label "SPI_CIPO"
+		(at 107.95 167.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "87345a15-502f-4a52-ab9b-83fdb828a42f")
 	)
 	(label "CC2"
 		(at 69.85 43.18 0)
@@ -10099,17 +10074,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 66.04 182.88 0)
+		(lib_id "power:+5V")
+		(at 52.07 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "022d916a-fa34-4b5a-9312-cee4c9b5fc99")
-		(property "Reference" "#PWR037"
-			(at 66.04 189.23 0)
+		(uuid "0224e064-3efc-4fe1-ab17-181b8cbe7640")
+		(property "Reference" "#PWR091"
+			(at 52.07 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10117,17 +10091,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 66.04 187.96 0)
+		(property "Value" "+V5V"
+			(at 52.07 176.784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 182.88 0)
+			(at 52.07 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10136,7 +10109,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 182.88 0)
+			(at 52.07 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10144,8 +10117,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 66.04 182.88 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 52.07 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10154,12 +10127,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "01b24861-2b67-449d-b980-5ff90b2a66f4")
+			(uuid "47e377a4-00c6-4bed-8b87-017c76ec945b")
 		)
 		(instances
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "#PWR037")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -13295,7 +13268,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 44.45 85.09 0)
+		(at 53.34 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13303,7 +13276,7 @@
 		(dnp no)
 		(uuid "2d87d86a-bfa6-4e69-8d92-4fa3e611f5c4")
 		(property "Reference" "#PWR041"
-			(at 44.45 88.9 0)
+			(at 53.34 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13312,7 +13285,7 @@
 			)
 		)
 		(property "Value" "+V5V"
-			(at 44.45 81.28 0)
+			(at 53.34 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13320,7 +13293,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 85.09 0)
+			(at 53.34 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13329,7 +13302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 85.09 0)
+			(at 53.34 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13338,7 +13311,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 44.45 85.09 0)
+			(at 53.34 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13427,7 +13400,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 66.04 180.34 0)
+		(at 58.42 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13435,7 +13408,7 @@
 		(dnp no)
 		(uuid "3085e20f-dfe8-4e1a-ba37-ad610a358efc")
 		(property "Reference" "#PWR036"
-			(at 66.04 184.15 0)
+			(at 58.42 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13444,7 +13417,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 66.04 176.784 0)
+			(at 58.42 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13452,7 +13425,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 180.34 0)
+			(at 58.42 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13461,7 +13434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 180.34 0)
+			(at 58.42 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13470,7 +13443,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 66.04 180.34 0)
+			(at 58.42 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13767,109 +13740,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Kalid:R 10k 0402")
-		(at 73.66 180.34 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "34469353-8e7b-4795-a8c9-50dbeb3cdc6f")
-		(property "Reference" "R14"
-			(at 69.85 179.324 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 10k 0402"
-			(at 73.66 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 73.66 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 73.66 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 73.66 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 73.66 176.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
-			(at 73.66 173.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 73.66 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "10k"
-			(at 76.962 179.324 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "eb2a65cc-8c23-44a3-bb86-af95985dff33")
-		)
-		(pin "1"
-			(uuid "9cb1e8f7-01ef-4361-8d05-bc7cd38735a5")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 34.29 73.66 0)
 		(unit 1)
@@ -14005,7 +13875,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 102.87 143.51 0)
+		(at 110.49 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14013,7 +13883,7 @@
 		(dnp no)
 		(uuid "3a8c0cc6-dbbf-4b0c-8bf2-ad168ccca774")
 		(property "Reference" "#PWR042"
-			(at 102.87 147.32 0)
+			(at 110.49 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14022,7 +13892,7 @@
 			)
 		)
 		(property "Value" "+V5V"
-			(at 102.87 139.954 0)
+			(at 110.49 139.954 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14030,7 +13900,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 143.51 0)
+			(at 110.49 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14039,7 +13909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 143.51 0)
+			(at 110.49 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14048,7 +13918,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 102.87 143.51 0)
+			(at 110.49 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14169,6 +14039,109 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kalid:R 0 ohm 0402")
+		(at 73.66 180.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(uuid "3f88252f-07e9-4f43-ba15-ef3e15dcbbae")
+		(property "Reference" "R14"
+			(at 70.104 179.324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R 0 ohm 0402"
+			(at 73.66 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 73.66 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS"
+			(at 73.66 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 73.66 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF0000TCE"
+			(at 73.66 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 73.66 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "0 ohm"
+			(at 78.232 179.324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "eb06d7ca-2364-4306-ada3-59c00f8b383d")
+		)
+		(pin "1"
+			(uuid "456ae967-09cf-4632-980e-fc6d543ec199")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -15231,109 +15204,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Kalid:R 10k 0402")
-		(at 55.88 181.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4fef002f-7788-44cf-a975-badc953cf903")
-		(property "Reference" "R39"
-			(at 52.07 180.594 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 10k 0402"
-			(at 55.88 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 55.88 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 55.88 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 55.88 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 55.88 177.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
-			(at 55.88 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 55.88 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "10k"
-			(at 59.182 180.594 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e0b0ce00-70a6-426b-b255-aa56024ff104")
-		)
-		(pin "1"
-			(uuid "9cf2b36b-6024-46b3-891c-f03b408fa140")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 234.95 95.25 0)
 		(unit 1)
@@ -16089,6 +15959,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 34.29 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5920aa09-c0c0-4e10-8a96-ac0cf470a1fc")
+		(property "Reference" "#PWR090"
+			(at 34.29 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+V5VUSB"
+			(at 34.29 86.614 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 34.29 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e03b672-4712-438c-b598-56512a7b12dd")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Kalid:LPW5209AB5F")
 		(at 240.03 95.25 0)
 		(unit 1)
@@ -16405,6 +16340,212 @@
 	)
 	(symbol
 		(lib_id "Kalid:R 10k 0402")
+		(at 123.19 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65490532-90c0-4cf0-afb8-6f49dcdb035c")
+		(property "Reference" "R38"
+			(at 119.38 176.784 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R 10k 0402"
+			(at 123.19 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 123.19 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.19 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
+			(at 123.19 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 123.19 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 123.19 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 123.19 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "10k"
+			(at 126.492 176.784 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "42e393fa-59a5-49a5-a553-9bb8e736bc86")
+		)
+		(pin "1"
+			(uuid "768fac00-d9d2-4177-bccc-91cb13a0dad5")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kalid:R 10k 0402")
+		(at 123.19 175.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "66503edc-0989-4670-8572-434fdf937306")
+		(property "Reference" "R37"
+			(at 119.38 174.244 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R 10k 0402"
+			(at 123.19 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 123.19 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.19 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
+			(at 123.19 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 123.19 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 123.19 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 123.19 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "10k"
+			(at 126.492 174.244 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c6284f85-60bf-43de-b0df-707fa17a132b")
+		)
+		(pin "1"
+			(uuid "6c7342ed-192a-49ca-9a0e-c0790f229e69")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kalid:R 10k 0402")
 		(at 210.82 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16501,112 +16642,6 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "R33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Kalid:Cap 4.7uF 0402")
-		(at 92.71 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d23d822-e120-4662-9d12-7a5f43420043")
-		(property "Reference" "C17"
-			(at 95.25 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Cap 4.7uF 0402"
-			(at 92.71 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 92.71 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 92.71 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Capacitor, 4.7uF, 50V, X7R, 0402"
-			(at 92.71 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
-			(at 92.71 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402B472K500NT"
-			(at 92.71 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "4.7uF"
-			(at 95.25 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "LCSC" "C1538"
-			(at 92.71 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a9c26ea0-65d7-4ead-a26c-38cf1ab41bc3")
-		)
-		(pin "1"
-			(uuid "e8923ca5-a8ca-4f16-bdcc-c3401a00fccf")
-		)
-		(instances
-			(project ""
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -17278,7 +17313,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 184.15 0)
+		(at 34.29 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17287,7 +17322,7 @@
 		(fields_autoplaced yes)
 		(uuid "7794b2dc-9ad5-4279-868f-d2eaab6392af")
 		(property "Reference" "#PWR035"
-			(at 62.23 190.5 0)
+			(at 34.29 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17296,7 +17331,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 189.23 0)
+			(at 34.29 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17305,7 +17340,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 184.15 0)
+			(at 34.29 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17314,7 +17349,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 184.15 0)
+			(at 34.29 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17323,7 +17358,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 62.23 184.15 0)
+			(at 34.29 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17344,111 +17379,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Kalid:R 10k 0402")
-		(at 44.45 181.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7bf300f4-67e2-4440-8976-e8f4d3ceac1e")
-		(property "Reference" "R38"
-			(at 40.64 180.594 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 10k 0402"
-			(at 44.45 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 44.45 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 44.45 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 44.45 177.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
-			(at 44.45 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 44.45 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "10k"
-			(at 47.752 180.594 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1e65f1cc-a411-4749-b0fe-ee6991fff2bf")
-		)
-		(pin "1"
-			(uuid "510c23be-e86b-43fe-96a9-3c5fbff30c0f")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
-		(at 62.23 172.72 0)
+		(at 62.23 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17456,7 +17388,7 @@
 		(dnp no)
 		(uuid "7dfb13b1-d45a-444e-9d16-245eca0f484d")
 		(property "Reference" "#PWR034"
-			(at 62.23 176.53 0)
+			(at 62.23 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17465,7 +17397,7 @@
 			)
 		)
 		(property "Value" "+V5V"
-			(at 62.23 168.91 0)
+			(at 62.23 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17473,7 +17405,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 172.72 0)
+			(at 62.23 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17482,7 +17414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 172.72 0)
+			(at 62.23 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17491,7 +17423,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 62.23 172.72 0)
+			(at 62.23 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17513,7 +17445,7 @@
 	)
 	(symbol
 		(lib_id "Kalid:R 10k 0402")
-		(at 71.12 175.26 90)
+		(at 34.29 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17521,7 +17453,7 @@
 		(dnp no)
 		(uuid "8272df16-023d-4a2a-aecb-877fbd00bbc6")
 		(property "Reference" "R13"
-			(at 67.31 174.244 90)
+			(at 37.592 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17529,7 +17461,7 @@
 			)
 		)
 		(property "Value" "R 10k 0402"
-			(at 71.12 166.37 90)
+			(at 25.4 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17538,7 +17470,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 71.12 163.83 90)
+			(at 22.86 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17547,7 +17479,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 175.26 0)
+			(at 34.29 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17556,7 +17488,7 @@
 			)
 		)
 		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 71.12 175.26 0)
+			(at 34.29 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17565,7 +17497,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 71.12 171.45 90)
+			(at 30.48 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17574,7 +17506,7 @@
 			)
 		)
 		(property "MPN" "0402WGF1002TCE"
-			(at 71.12 168.91 90)
+			(at 27.94 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17583,7 +17515,7 @@
 			)
 		)
 		(property "LCSC" "C25744"
-			(at 71.12 175.26 0)
+			(at 34.29 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17592,7 +17524,7 @@
 			)
 		)
 		(property "Val" "10k"
-			(at 74.422 174.244 90)
+			(at 37.338 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17791,109 +17723,6 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "#PWR082")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Kalid:R 10k 0402")
-		(at 55.88 179.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "86d4e4f4-d5f3-46d8-946c-391e53a5420b")
-		(property "Reference" "R36"
-			(at 52.07 178.054 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 10k 0402"
-			(at 55.88 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 55.88 167.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 55.88 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 55.88 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 55.88 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
-			(at 55.88 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 55.88 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "10k"
-			(at 59.182 178.054 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "70dd8b28-1453-4648-95c5-f78981ff199d")
-		)
-		(pin "1"
-			(uuid "0543c240-1a2a-44a8-8d2a-7398cb8bdee6")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -18475,100 +18304,6 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 39.37 120.65 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "913d51f5-45ec-48a8-b69e-2e9e727d20a7")
-		(property "Reference" "L3"
-			(at 35.56 119.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10uH, 4.5A"
-			(at 47.498 119.634 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_Changjiang_FXL0630"
-			(at 39.37 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8608737238658265088"
-			(at 39.37 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10uH 4.5A 5.5A 68mΩ Molded Inductor ±20% SMD,6.6x7mm Power Inductors ROHS"
-			(at 39.37 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "cjiang (Changjiang Microelectronics Tech)"
-			(at 39.37 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "FXL0630-100-M"
-			(at 39.37 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C167223"
-			(at 39.37 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8103b014-99e4-4bd3-998d-52469553deac")
-		)
-		(pin "1"
-			(uuid "268fcf8f-da82-4f34-93c5-1a7e89f7aac1")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -19788,109 +19523,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Kalid:R 0 ohm 0402")
-		(at 123.19 177.8 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2efc6d8-8411-4e85-8b00-73dfbb8411e3")
-		(property "Reference" "R45"
-			(at 119.634 176.784 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 0 ohm 0402"
-			(at 123.19 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 123.19 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 123.19 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS"
-			(at 123.19 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 123.19 173.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF0000TCE"
-			(at 123.19 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C17168"
-			(at 123.19 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "0 ohm"
-			(at 127.762 176.784 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f9037ba4-3c7d-4fc4-84a5-8123d7b2473b")
-		)
-		(pin "1"
-			(uuid "9f019fb3-541f-4db5-9bab-1ff33143fb4f")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Kalid:Cap 4.7uF 0402")
 		(at 41.91 146.05 0)
 		(unit 1)
@@ -19991,6 +19623,109 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kalid:L 2.2uH 2A")
+		(at 39.37 120.65 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a34fefd9-7c07-4d3f-95fc-1e5b1a0fd054")
+		(property "Reference" "L3"
+			(at 35.56 119.634 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "L 2.2uH 2A"
+			(at 57.15 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Kalid:IND-SMD_L3.0-W3.0_LQH3NPN"
+			(at 52.07 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C285842.pdf"
+			(at 39.37 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.05A 15uH Magnetic Shielded Inductor ±20% 2.2A SMD,5x5mm Power Inductors ROHS"
+			(at 39.37 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Chilisin"
+			(at 54.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LVS303010-2R2M-N"
+			(at 49.53 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C285842"
+			(at 39.37 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "2.2uH 2A"
+			(at 46.736 119.634 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "da6d86f3-449c-4be4-8981-0746f0454bf7")
+		)
+		(pin "1"
+			(uuid "711126cb-ab48-42ce-ab07-8a4bbbcd2c55")
+		)
+		(instances
+			(project ""
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -20697,6 +20432,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Kalid:R 10k 0402")
+		(at 71.12 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(uuid "a708d166-5194-4b6f-b483-e21a00e3cd2a")
+		(property "Reference" "R39"
+			(at 67.31 176.784 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R 10k 0402"
+			(at 71.12 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 71.12 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 71.12 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 71.12 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "10k"
+			(at 74.422 176.784 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "da2ac0d8-d3ee-42bd-ab63-431955c2d598")
+		)
+		(pin "1"
+			(uuid "adfcabae-799c-45ca-99f9-87d33352b7cb")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 251.46 123.19 270)
 		(unit 1)
@@ -20869,7 +20707,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 170.18 0)
+		(at 34.29 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20878,7 +20716,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab0ea005-15f9-4eb1-9e31-01a381f30429")
 		(property "Reference" "#PWR029"
-			(at 38.1 176.53 0)
+			(at 34.29 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20887,7 +20725,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 175.26 0)
+			(at 34.29 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20896,7 +20734,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 170.18 0)
+			(at 34.29 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20905,7 +20743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 170.18 0)
+			(at 34.29 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20914,7 +20752,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 38.1 170.18 0)
+			(at 34.29 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21450,7 +21288,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 102.87 148.59 0)
+		(at 110.49 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21459,7 +21297,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0621396-2ba9-4d81-83a4-e446892ebab4")
 		(property "Reference" "#PWR043"
-			(at 102.87 154.94 0)
+			(at 110.49 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21468,7 +21306,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 153.67 0)
+			(at 110.49 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21477,7 +21315,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21486,7 +21324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21495,7 +21333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21751,109 +21589,6 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Kalid:R 10k 0402")
-		(at 44.45 179.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b522a9aa-ba3f-4114-8e23-0f808ad9babb")
-		(property "Reference" "R37"
-			(at 40.64 178.054 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 10k 0402"
-			(at 44.45 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 44.45 167.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 44.45 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 44.45 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
-			(at 44.45 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 44.45 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "10k"
-			(at 47.752 178.054 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "cad14c09-25c6-478b-ba26-1bd8a3d0f102")
-		)
-		(pin "1"
-			(uuid "4ce4ea63-e62d-451f-8485-36009dc73322")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -22277,7 +22012,7 @@
 	)
 	(symbol
 		(lib_id "Kalid:R 10k 0402")
-		(at 71.12 172.72 90)
+		(at 71.12 175.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22285,7 +22020,7 @@
 		(dnp no)
 		(uuid "bce05a0b-1e5f-4d22-9cc5-4b194dad0507")
 		(property "Reference" "R12"
-			(at 67.31 171.704 90)
+			(at 67.31 174.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22293,51 +22028,6 @@
 			)
 		)
 		(property "Value" "R 10k 0402"
-			(at 71.12 163.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 71.12 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 71.12 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 71.12 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
 			(at 71.12 166.37 90)
 			(effects
 				(font
@@ -22346,8 +22036,53 @@
 				(hide yes)
 			)
 		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 71.12 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
+			(at 71.12 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 71.12 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 71.12 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "LCSC" "C25744"
-			(at 71.12 172.72 0)
+			(at 71.12 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22356,7 +22091,7 @@
 			)
 		)
 		(property "Val" "10k"
-			(at 74.422 171.704 90)
+			(at 74.422 174.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22783,109 +22518,6 @@
 			(project "Kalid"
 				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
 					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Kalid:R 0 ohm 0402")
-		(at 123.19 175.26 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c89cf3c2-6deb-487a-b96e-1a9c9bf616f3")
-		(property "Reference" "R44"
-			(at 119.634 174.244 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 0 ohm 0402"
-			(at 123.19 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 123.19 163.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 123.19 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS"
-			(at 123.19 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 123.19 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF0000TCE"
-			(at 123.19 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C17168"
-			(at 123.19 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "0 ohm"
-			(at 127.762 174.244 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2b1b6c34-6852-4e02-b350-8feb2a35bd3a")
-		)
-		(pin "1"
-			(uuid "1f4ca1b0-3626-497c-a208-9734df8f76b4")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -24083,6 +23715,215 @@
 		)
 	)
 	(symbol
+		(lib_id "Kalid:R 5.1k 0402")
+		(at 34.29 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbf5bff2-658a-4f42-9718-d42cb95311a1")
+		(property "Reference" "R36"
+			(at 35.56 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R 5.1k 0402"
+			(at 43.18 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 45.72 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0201FR-075K1L_C274341.pdf"
+			(at 34.29 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 34.29 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 38.1 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF5101TCE"
+			(at 40.64 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25905"
+			(at 34.29 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "5.1k"
+			(at 35.56 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "b74db429-8f39-4ed6-8065-ffd84e1e3ce8")
+		)
+		(pin "2"
+			(uuid "7db0f689-2e71-4fd4-9b66-faa3ae5e9925")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kalid:R 0 ohm 0402")
+		(at 73.66 182.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dbfd2a31-c049-4bbe-aef0-aee8257e2c7f")
+		(property "Reference" "R15"
+			(at 70.104 181.864 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R 0 ohm 0402"
+			(at 73.66 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 73.66 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS"
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 73.66 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF0000TCE"
+			(at 73.66 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Val" "0 ohm"
+			(at 78.232 181.864 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bd193201-8864-4eda-809a-2c153ea14617")
+		)
+		(pin "1"
+			(uuid "ad3c673f-5575-4395-8657-8951e2f22f7a")
+		)
+		(instances
+			(project "Kalid"
+				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Kalid:Cap 12pF 0402")
 		(at 58.42 167.64 90)
 		(unit 1)
@@ -24843,109 +24684,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Kalid:R 10k 0402")
-		(at 73.66 182.88 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "eac6f866-fe6d-4c95-a18a-2c15714a93c9")
-		(property "Reference" "R15"
-			(at 69.85 181.864 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R 10k 0402"
-			(at 73.66 173.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 73.66 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 73.66 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201  Chip Resistor - Surface Mount ROHS"
-			(at 73.66 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 73.66 179.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402WGF1002TCE"
-			(at 73.66 176.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 73.66 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Val" "10k"
-			(at 76.962 181.864 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c7d548d8-c053-49ec-adbe-5c788c988bc0")
-		)
-		(pin "1"
-			(uuid "dc964c6a-5dc7-42d2-bb8e-c8ad2ba1dcca")
-		)
-		(instances
-			(project "Kalid"
-				(path "/5c5b6a50-9d49-4bf7-888b-87984473892a/785a3ac2-5e82-4fd1-812e-debec2fc492c/9df3cd81-17be-4ed0-a69b-63867c211cae"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Kalid:Cap 4.7uF 0402")
 		(at 82.55 146.05 0)
 		(unit 1)
@@ -25291,7 +25029,7 @@
 	)
 	(symbol
 		(lib_id "Kalid:Cap 4.7uF 0402")
-		(at 102.87 146.05 0)
+		(at 110.49 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25300,7 +25038,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee8d7763-719a-413e-ae55-f85c104942ac")
 		(property "Reference" "C20"
-			(at 105.41 144.7799 0)
+			(at 113.03 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25309,7 +25047,7 @@
 			)
 		)
 		(property "Value" "Cap 4.7uF 0402"
-			(at 102.87 166.37 0)
+			(at 110.49 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25318,7 +25056,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 102.87 158.75 0)
+			(at 110.49 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25327,7 +25065,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 146.05 0)
+			(at 110.49 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25336,7 +25074,7 @@
 			)
 		)
 		(property "Description" "Capacitor, 4.7uF, 50V, X7R, 0402"
-			(at 102.87 146.05 0)
+			(at 110.49 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25345,7 +25083,7 @@
 			)
 		)
 		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
-			(at 102.87 163.83 0)
+			(at 110.49 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25354,7 +25092,7 @@
 			)
 		)
 		(property "MPN" "0402B472K500NT"
-			(at 102.87 161.29 0)
+			(at 110.49 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25363,7 +25101,7 @@
 			)
 		)
 		(property "Val" "4.7uF"
-			(at 105.41 147.3199 0)
+			(at 113.03 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25372,7 +25110,7 @@
 			)
 		)
 		(property "LCSC" "C1538"
-			(at 102.87 146.05 0)
+			(at 110.49 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
