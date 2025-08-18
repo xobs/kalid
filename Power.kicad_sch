@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "cd4d1da0-6b9b-40ee-97e5-6f2340c7b446")
 	(paper "A4")
+	(title_block
+		(title "Kalid")
+		(date "2025-08-18")
+		(rev "EVT2")
+	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_Switch"
 			(pin_names
@@ -755,7 +760,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C602037"
+			(property "LCSC" "C45783"
 				(at 0 0 90)
 				(effects
 					(font
@@ -3360,7 +3365,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 149.86 140.97 90)
 			(effects
 				(font
@@ -3880,7 +3885,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 25.4 83.82 90)
 			(effects
 				(font
@@ -3987,7 +3992,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 116.84 140.97 90)
 			(effects
 				(font
@@ -4094,7 +4099,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 116.84 153.67 90)
 			(effects
 				(font
@@ -6348,7 +6353,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 160.02 140.97 90)
 			(effects
 				(font
@@ -6959,7 +6964,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 133.35 83.82 90)
 			(effects
 				(font
@@ -7372,7 +7377,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 217.17 91.44 90)
 			(effects
 				(font
@@ -7614,7 +7619,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 109.22 91.44 90)
 			(effects
 				(font
@@ -7788,7 +7793,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 34.29 83.82 90)
 			(effects
 				(font
@@ -9006,7 +9011,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 99.06 91.44 90)
 			(effects
 				(font
@@ -9179,7 +9184,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 207.01 91.44 90)
 			(effects
 				(font
@@ -9628,7 +9633,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C602037"
+		(property "LCSC" "C45783"
 			(at 142.24 83.82 90)
 			(effects
 				(font

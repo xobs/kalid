@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Kalid")
-		(date "2025-07-28")
-		(rev "EVT1")
+		(date "2025-08-18")
+		(rev "EVT2")
 	)
 	(layers
 		(0 "F.Cu" signal)

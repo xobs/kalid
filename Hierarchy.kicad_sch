@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "bad99098-e748-4517-b4ca-1d8081e8cc03")
 	(paper "A4")
+	(title_block
+		(title "Kalid")
+		(date "2025-08-18")
+		(rev "EVT2")
+	)
 	(lib_symbols)
 	(sheet
 		(at 62.23 80.01)
