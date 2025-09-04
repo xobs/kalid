@@ -73,14 +73,6 @@
           ""
         ],
         [
-          "courtyards_overlap|177905000|74435000|64c9bf1c-4580-4577-a0bb-4b561e74737e|d10a5b9d-2a59-475b-9fc9-12be45ff9061",
-          ""
-        ],
-        [
-          "courtyards_overlap|179975000|76535000|668a6842-5efd-4f56-8139-7e6eda277c14|e43aafa8-44ff-4f77-a326-b09e04544e00",
-          ""
-        ],
-        [
           "courtyards_overlap|188210000|68995000|445c691f-8ed4-48df-856b-6509dd21dee9|998e6806-d9e9-47cd-b968-70c8632c2faa",
           ""
         ],
@@ -89,11 +81,27 @@
           ""
         ],
         [
-          "silk_edge_clearance|174245000|65000000|b94c3478-5733-4eec-aac9-12e14b087b15|840401ab-0c45-4ed9-835e-41dc73f4fca6",
+          "hole_clearance|175280000|71700000|aa30f602-6bf4-4623-acd8-630484c7d0fb|7a48aac3-8612-4bf3-8e69-7f6f9388a26e",
           ""
         ],
         [
-          "silk_edge_clearance|183645000|65000000|b94c3478-5733-4eec-aac9-12e14b087b15|1f036cfe-4127-4221-9f39-3414e94c6620",
+          "hole_clearance|182010000|71045000|ae50986e-a8b1-4d34-ab5f-6c9555310dc2|10940bd1-c341-4568-9012-760b8d4b9e70",
+          ""
+        ],
+        [
+          "hole_clearance|182710000|71700000|ae50986e-a8b1-4d34-ab5f-6c9555310dc2|72277d11-7d88-4cca-819b-ae650466d4dd",
+          ""
+        ],
+        [
+          "silk_edge_clearance|174670000|64940000|b94c3478-5733-4eec-aac9-12e14b087b15|6b4218e9-a162-4842-b486-a8dfa109b1b5",
+          ""
+        ],
+        [
+          "silk_edge_clearance|174670000|65000000|b94c3478-5733-4eec-aac9-12e14b087b15|d7f4833f-ac0c-490d-8fdc-66134ea17649",
+          ""
+        ],
+        [
+          "silk_edge_clearance|183310000|65000000|b94c3478-5733-4eec-aac9-12e14b087b15|170bd39e-5ca1-4173-9da1-70f8e0fa4dda",
           ""
         ],
         [
@@ -666,6 +674,18 @@
         "USB"
       ],
       "/Hierarchy/USB/USB_UFP_D-": [
+        "USB"
+      ],
+      "/Hierarchy/USB/USB_UFP_RX+": [
+        "USB"
+      ],
+      "/Hierarchy/USB/USB_UFP_RX-": [
+        "USB"
+      ],
+      "/Hierarchy/USB/USB_UFP_TX+": [
+        "USB"
+      ],
+      "/Hierarchy/USB/USB_UFP_TX-": [
         "USB"
       ]
     },
