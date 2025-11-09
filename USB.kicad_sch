@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Kalid")
-		(date "2025-09-18")
+		(date "2025-11-09")
 		(rev "EVT5")
 	)
 	(lib_symbols
@@ -16633,7 +16633,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R 510 0402"
+		(property "Value" "R 1k 0402"
 			(at 218.44 149.86 90)
 			(effects
 				(font
@@ -26756,7 +26756,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R 510 0402"
+		(property "Value" "R 1k 0402"
 			(at 218.44 50.8 90)
 			(effects
 				(font
@@ -28279,7 +28279,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R 510 0402"
+		(property "Value" "R 1k 0402"
 			(at 218.44 83.82 90)
 			(effects
 				(font
@@ -30632,7 +30632,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R 510 0402"
+		(property "Value" "R 1k 0402"
 			(at 218.44 116.84 90)
 			(effects
 				(font
